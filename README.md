@@ -4,7 +4,8 @@
 
 Simple linux socket game server.
 
-The client looks like this, I wrote it using OpenGL.
+Click the link below, to see, how client looks.
+I wrote it using OpenGL. It's quite simple - there are spirtes in
 
 
 
