@@ -5,7 +5,9 @@
 Simple linux socket game server.
 
 Click the link below, to see, how client looks.
-I wrote it using OpenGL. It's quite simple - there are spirtes in
+I wrote it using OpenGL. It's quite simple - there are spirtes in 3d space. However, they have...
+normal maps :)
+I think, it looks interesting :)
 
 
 
